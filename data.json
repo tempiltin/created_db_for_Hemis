@@ -1,0 +1,482 @@
+[
+    {
+        "savol": "Biznesmen nimalarni bilishi kerak?",
+        "javob": "hammasi  to‘g‘ri."
+    },
+    {
+        "savol": "Logotip deb nimaga aytiladi?",
+        "javob": "iz, tamg‘a ma’nosini anglatib, firma nomining maxsus uslubga solingan va qisqartirilgan shakli."
+    },
+    {
+        "savol": "Brend deb nimaga aytiladi?",
+        "javob": "iste’molchilarga keng tanilgan va bozorning salmoqli qismini egallab olgan savdo markasi."
+    },
+    {
+        "savol": "Startap nima?",
+        "javob": "o‘z faoliyatini innovatsion g‘oyalar yoki texnologiyalarga asoslangan holda yurituvchi yangi tashkil etilgan kompaniya, firma yoki biznes loyiha."
+    },
+    {
+        "savol": "Startapni moliyalashtirish manbalariga qaysi javobni kiritish mumkin?",
+        "javob": "barchasi kiradi."
+    },
+    {
+        "savol": "Ustav fondi deb nimaga aytiladi?:",
+        "javob": "ta’sischilar yoki ishtirokchilarning o‘zlari tashkil etgan kompaniya, xo‘jalik jamiyatiga dastlabki kiritgan va doimiy ulush hisoblanadigan moddiy va pul mablag‘lari majmui."
+    },
+    {
+        "savol": "Tadbirkorning huquqi nima",
+        "javob": "qonun hujjatlarida belgilab berilgan huquq va majburiyatlarning bajarilishi orqali namoyon bo‘ladi."
+    },
+    {
+        "savol": "Tadbirkorning majburiyati nima?",
+        "javob": "davlat tomonidan tadbirkor uchun rioya etilishi yoki bajarilishi shart 'tib belgilangan xatti-harakatlar qoidalari majmuyi."
+    },
+    {
+        "savol": "Biznes belgilari..",
+        "javob": "Foyda olishga qaratilgan maqsad, xavf-xatar, novatorlik, mas’uliyat, iqtisodiy barqarorlik"
+    },
+    {
+        "savol": "Biznesning asosiy vazifalari….",
+        "javob": "menejment, logistika, ishlab chiqarishni boshqarish, inson resurslarini boshqarish, marketing, buxgalteriya va moliyaviy boshqaruv"
+    },
+    {
+        "savol": "Koll-markazlari qanday muhim vazifalarni bajaradi?",
+        "javob": "aksiyalarda ishtirok etish, telefon orqali sotishda ishtirok etish, ma’lumotnoma ma’lumotlarini markazlashtirilgan holda taqdim etish, ishonch telefonini tashkil etish imkoniyati"
+    },
+    {
+        "savol": "Agar uning aksiyalari ochiq yoki obuna bo‘lish yo‘li bilan sotilsa, qimmatbaho kog‘ozlar bozorida qonundan tashqari hech kim tomonidan cheklanmay, erkin savdo-sotiq qilinsa ............................deyiladi” nuqtalar urniga tushirilgan suzni toping",
+        "javob": "Ochiq hissadorlik jamiyati;"
+    },
+    {
+        "savol": "Aksiyadorlik jamiyatlari qo‘yidagi turlarda bo‘lishi mumkin:",
+        "javob": "ochiq turdagi va yopiq turdagi;"
+    },
+    {
+        "savol": "Bir mulkdor tomonidan egalik qilinayotgan biznes bu:",
+        "javob": "yakka tartibdagi tadbirkorlik"
+    },
+    {
+        "savol": "Yakka tartibdagi tadbirkorlikning kamchiliklari bu :",
+        "javob": "Cheklanmagan ma’suliyat"
+    },
+    {
+        "savol": "Ikki va undan ortiq shaxslar umumiy mulkdor bo‘lsalar, unda bu mulkchilik shakli",
+        "javob": "Jamoa mulki"
+    },
+    {
+        "savol": "Menejmentning axloqiy me’yorlariga nimalar kiradi?",
+        "javob": "ijtimoiy burchni to‘g‘ri tushunish, kishilar o‘rtasida insoniy munosabat va o‘zaro xurmat, vijdonlilik, haqiqatgo‘ylik, kamtarlik;"
+    },
+    {
+        "savol": "Menejmentning iqtisodiy me’yorlariga nimalar kiradi",
+        "javob": "moliya-kredit me’yorlari, ssudalar olish tartibi, amortizatsiya me’yorlari, maxsulotning hisoblangan bahosi, foyda me’yori, rentabellik me’yori, fondlar uchun to‘lovlar, budjetga to‘lovlar;"
+    },
+    {
+        "savol": "Menejmentning tashkiliy me’yorlariga nimalar kiradi",
+        "javob": "alohida bo‘linma va shaxslar faoliyati tarkibi va tartibini ichki tartib faoliyat turlarini, xodimlar vazifalarini, axborotni qayta ishlash va foydalanish jarayoni;"
+    },
+    {
+        "savol": "Menejment fani  boshqaruvchiga:",
+        "javob": "hammasi to‘g‘ri."
+    },
+    {
+        "savol": "Menejment obyekti bo‘lib:",
+        "javob": "hammasi to‘g‘ri."
+    },
+    {
+        "savol": "Menejment subyekti bo‘lib:",
+        "javob": "hammasi to‘g‘ri."
+    },
+    {
+        "savol": "Menejment — bu:",
+        "javob": "notug‘ri javob yo‘q"
+    },
+    {
+        "savol": "Boshqariluvchi obyekt boshqa obyektlar bilan o‘zaro bog‘lanishda va aloqadorliqda o‘rganilmoqchi bo‘lsa, u holda menejment fani",
+        "javob": "kompleksli yondashuv usulini qo‘llaydi;"
+    },
+    {
+        "savol": "Inglizcha «Manegement» so‘zining o‘zbek tilidagi ma’nosi qaysi javobda to‘g‘ri keltirilgan?",
+        "javob": "Boshqaruvni tashkil qilish, rahbarlik qilish;"
+    },
+    {
+        "savol": "U(igrik) nazariyasi sharoitida menejer ..",
+        "javob": "xodimlarni rag‘batlantirib tursa kifoya;"
+    },
+    {
+        "savol": "Amir Temur fikriga ko‘ra vazirlar quyida qayd qilingan sifatlarning qaysi biriga ega bo‘lishlari shart?",
+        "javob": "noto‘g‘ri  javob yo‘q."
+    },
+    {
+        "savol": "Kimlar “Insoniy munosabatlar” maktabi (1950 yildan hozirgacha)ning namoyondalari bo‘lgan?",
+        "javob": "Meyo E, Laykert R va boshqalar;"
+    },
+    {
+        "savol": "Kimlar miqdoriy, tizimli yoki zamonaviy menejment (1950 yildan hozirgacha)ning namoyondalari bo‘lgan?",
+        "javob": "Saymon G, Druker P, Deyl E va boshqalar;"
+    },
+    {
+        "savol": "A.Fayolning diqqat-markazida, eng avvalo ?",
+        "javob": "14 tadan iborat boshqarish tamoyillari turadi;"
+    },
+    {
+        "savol": "Insoniy munosabatlar” maktabi:",
+        "javob": "ishchi — bu fikrsiz robot emas, degan g‘oyani ilgari surgan maktabdir;"
+    },
+    {
+        "savol": "X(iks) va U(igrik) nazariyasining namoyondasi kim?",
+        "javob": "amerikalik olim D. Mak-Gregor;"
+    },
+    {
+        "savol": "Amir Temur fikriga ko‘ra vazirlar quyida qayd qilingan sifatlarning qaysi biriga ega bo‘lishlari shart?",
+        "javob": "noto‘g‘ri javob yo‘q."
+    },
+    {
+        "savol": "Amir Temurning e’tiqod qo‘ygan pirlaridan, tinchliksevar va raiyatparvar inson Zaynuddin Abubakr Toybodiy Temurga maktub yozib, uning saltanat yumushlarida quyidagi ishlarning qaysi birini qo‘llashini aytgan?",
+        "javob": "noto‘g‘ri javob yo‘q."
+    },
+    {
+        "savol": "Mehnat unumdorligini oshirishning 12 tamoyili qaysi olimga ta’luqli",
+        "javob": "Emerson;"
+    },
+    {
+        "savol": "«Boshqaruv ilmi yoki miqdoriy uslub» deb nomlanuvchi maktab namoyondalarini toping.",
+        "javob": "R.Akkof, L.Kleyn, V.Lyus.;"
+    },
+    {
+        "savol": "«Insoniy munosabatlar» nazariyasi g‘oyalarining mohiyati  nimadan iborat",
+        "javob": "Mehnat jarayonida psixologik va ijtimoiy omillar yetakchi ahamiyatga ega;"
+    },
+    {
+        "savol": "Boshqaruvning klassik maktabi necha xil  unsurlarni ishlab chiqadi",
+        "javob": "4;"
+    },
+    {
+        "savol": "F.Teylor qaysi menejment maktabiga asos solgan.",
+        "javob": "Ilmiy menejment;"
+    },
+    {
+        "savol": "D.Mak Gregor boshqaruvni tashkil etishgning necha xil  yondoshuvini ishlab chiqqan.",
+        "javob": "2 ta «X» va «U»;"
+    },
+    {
+        "savol": "Avtokratik rahbarlar bo‘ysunuvchilarning:",
+        "javob": "tashabbuskorligiga yo‘l qo‘yadi;"
+    },
+    {
+        "savol": "Demokratik rahbarlar muomalada:",
+        "javob": "ijobiy, muloqotda kirishimli va faol bo‘ladi;"
+    },
+    {
+        "savol": "Qo‘yida qayd qilingan xislatlarning qaysi biri rahbarda mujassamlangan  bo‘lishi kerak",
+        "javob": "noto‘g‘ri javob yo‘q."
+    },
+    {
+        "savol": "Qo‘yida qayd qilinganlarning qaysi biri rahbarlar aytishi mumkin bo‘lmagan javoblardir?",
+        "javob": "mening ish tajribam shu;"
+    },
+    {
+        "savol": "Ko‘yida qayd qilinganlarning qaysi biri boshqarish funksiyasi hisoblanadi?",
+        "javob": "hammasi to‘g‘ri."
+    },
+    {
+        "savol": "Quyida kayd kilingan funksiyalarning kaysi biri boshqarishning sotsial funksiyasiga kiradi",
+        "javob": "ijtimoiy himoyani ta’minlash;"
+    },
+    {
+        "savol": "Boshqarishning iqtisodiy usullari",
+        "javob": "iqtisodiy manfaatlardan foydalanishga asoslanadi."
+    },
+    {
+        "savol": "Liberal rahbarlar rag‘batlantirishga kelganda:",
+        "javob": "aniq mo‘ljallari bo‘lmaydi;"
+    },
+    {
+        "savol": "Qo‘yida qayd qilingan xislatlarning kaysilari rahbarni el nazaridan qolishiga olib keladi:",
+        "javob": "hammasi."
+    },
+    {
+        "savol": "Qo‘yida qayd qilinganlarning qaysi biri rahbar aytishi mumkin bo‘lgan javoblardir:",
+        "javob": "asrlab yashaysanu, asrlar o‘rganar ekansan;"
+    },
+    {
+        "savol": "Boshqaruv faoliyati turlariga qarab boshqarish funksiyalari:",
+        "javob": "iqtisodiy, ijtimoiy, ma’naviy — marifiy va tashkiliy funksiyalarga bo‘linadi."
+    },
+    {
+        "savol": "Quyida kayd qilingan funksiyalarning qaysi biri boshqarishning ma’naviy-ma’rifiy funksiyasi¬ga qiradi?",
+        "javob": "xodimlarda xalollikni, adolat tuyg‘usini qaror topshirishga xizmat qilish."
+    },
+    {
+        "savol": "Boshqarishning tashkiliy — ma’muriy usullari",
+        "javob": "har bir boshqaruv bo‘g‘inining funksiyalarini belgilashga asoslanadi;"
+    },
+    {
+        "savol": "Boshqarishning ijtimoiy — ruhiy usullari:",
+        "javob": "ishlab chiqarish jamoalarini, ulardagi “psixologik iqlimni”, har bir xodimning shaxsiy xususiyatlarini o‘rganishga asoslanadi;"
+    },
+    {
+        "savol": "Avtokratik rahbarlarning mas’uliyatni taqsimlashi:",
+        "javob": "to‘la-to‘kis o‘zlari taqsimlaydi;"
+    },
+    {
+        "savol": "O‘zini jamoadan uzoq tutish, jamoa a’zolarini bevosita muloqotda bo‘lishini chegaralab ko‘yish",
+        "javob": "avtokratik rahbarlar uchun xos;"
+    },
+    {
+        "savol": "O‘z zimmasiga mas’uliyat olishni yoqtirmaslik:",
+        "javob": "liberal rahbarlar uchun xos;"
+    },
+    {
+        "savol": "Qo‘yidagilarning qaysi biri boshqaruvning tamoyillari hisoblanadi?",
+        "javob": "iyerarxiya tamoyili;"
+    },
+    {
+        "savol": "Iqtisodiy munosabatlarni demokratiyalash tamoyili deganda:",
+        "javob": "monopollashgan iqtisoddan erkin iqtisodga o‘tish tushuniladi;"
+    },
+    {
+        "savol": "Gorizontal aloqa nima?",
+        "javob": "teng huquqli bo‘g‘inlar o‘rtasidagi aloqa"
+    },
+    {
+        "savol": "Vertikal aloqa nima?",
+        "javob": "qo‘yi va yuqori  bo‘g‘inlar o‘rtasidagi aloqa"
+    },
+    {
+        "savol": "Boshqarish strukturasi deganda",
+        "javob": "noto‘g‘ri javob yo‘q"
+    },
+    {
+        "savol": "Tashkiliy strukturalarni hosil qiladigan boshqarish organlari:",
+        "javob": "boshqaruv tizimi shaklida bo‘ladi"
+    },
+    {
+        "savol": "Chiziqli shtabli struktura",
+        "javob": "har bir chiziqli rahbar qoshida ixtisoslashgan xizmatlar, maslahatchilar kengashi, ya’ni shtablar tuzish orqali tashkil etiladi"
+    },
+    {
+        "savol": "Funksional struktura",
+        "javob": "har bir boshqaruv bo‘g‘iniga muayyan funksiyalarni biriktirib qo‘yish orqali tashkil etiladi"
+    },
+    {
+        "savol": "SWOT tahlilida «O» harfi nima ma’nosini beradi?",
+        "javob": "Imkoniyatlar;"
+    },
+    {
+        "savol": "Strategik boshqaruv bu..",
+        "javob": "bu korxona (firma)ning istiqbol maqsadi va imkoniyatini xodimlar manfaati bilan uyg‘unlashtirishni nazarda tutuvchi uzoq muddatli boshqaruv usulidir."
+    },
+    {
+        "savol": "Strategik reja bu?",
+        "javob": "bu korxona (firma) oldidagi uzoq muddatga mo‘ljallangan vazifalar majmui bo‘lib, u korxona ko‘lamidagi boshqa joriy, yillik rejalar uchun boshlang‘ich nuqta xizmatini o‘taydi;"
+    },
+    {
+        "savol": "Quyidagi ta’riflardan qaysi biri to‘g‘ri?",
+        "javob": "«Biznes»-so‘zi inglizcha so‘z bo‘lib, u tadbirkorlik faoliyati yoki boshqacha so‘z bilan aytganda  kishilarni foyda olishga qaratilgan faoliyatidir;"
+    },
+    {
+        "savol": "Biznes rejaning rezyumasi necha qismdan iborat",
+        "javob": "1 qismdan;"
+    },
+    {
+        "savol": "Biznes rejaning qaysi tarkibiy qismida kredit bilan bog‘liq xizmatlar ko‘riladi?",
+        "javob": "Moliya rejasida;"
+    },
+    {
+        "savol": "…… loyihaning mazmuni qisqacha aks ettiruvchi reja maqsadlarini o‘z ichiga oladi. Nuqtalar o‘rnini to‘ldradigan so‘zni toping.",
+        "javob": "Kirish;"
+    },
+    {
+        "savol": "Biznes qanday so‘z?",
+        "javob": "Xorijiy so‘z;"
+    },
+    {
+        "savol": "Motivlashtirish strategiyasini tanlashda nechta yondashuv mavjud?",
+        "javob": "3 ta;"
+    },
+    {
+        "savol": "«Kim ko‘p yaxshi ishlasa, unga yaxshi haq to‘lanadi, Kim undan ko‘p ishlasa shunchalik ko‘p haq to‘lanadi, kim sifatsiz ishlasa, u jazolanadi». Ushbu tushunchalar motivlashtirish strategiyasining qaysi yondashuviga ta’luqli?",
+        "javob": "Rag‘batlantirish va jazo strategiyasi;"
+    },
+    {
+        "savol": "«Xodimga uni qoniqtiradigan ishni bersangiz bas, ijro etish sifati yuqori bo‘ladi». Ushbu tushuncha motivlashtirish strategiyasini qaysi yondashuviga ta’luqli?",
+        "javob": "Ish orqali motivlashtirish strategiyasi;"
+    },
+    {
+        "savol": "Extiyojlar qondirilish ketma-ketligi bo‘yicha nechta turga bo‘linadi?:",
+        "javob": "2 ta, birlamchi  va ikkilamchi;"
+    },
+    {
+        "savol": "Extiyojlar ijtimoiy-iqtisodiy tavsifiga ko‘ra nechta turga bo‘linadi",
+        "javob": "2 ta moddiy va nomoddiy extiyojlar;"
+    },
+    {
+        "savol": "Extiyojlarning qondirish shakli va ko‘lamiga ko‘ra nechta turga bo‘linadi?",
+        "javob": "Yakka, jamoaviy va ijtimoiy extiyojlar;"
+    },
+    {
+        "savol": "Extiyojlar piramidasida dastlab qaysi extiyoj birlamchi hisoblanadi?",
+        "javob": "Fiziologik extiyoj;"
+    },
+    {
+        "savol": "«Shirin kulcha» va «Qamchi» taktikasi motivlashtirishning qaysi modeliga mansub?",
+        "javob": "Oqilona (ratsional) modeli;"
+    },
+    {
+        "savol": "SWOT tahlilining kengaytmasini toping.",
+        "javob": "kuchli, kuchsiz, xavf-xatar va imkoniyatlar;"
+    },
+    {
+        "savol": "SWOT tahlili qaysi chet tilidan olingan?",
+        "javob": "ingliz tili;"
+    },
+    {
+        "savol": "SWOT tahlilida T –nima ma’nosini anglatadi?",
+        "javob": "xavfli va xatarli tomoni;"
+    },
+    {
+        "savol": "Nazorat funksiyasiga to‘g‘ri ta’rif berilgan qatorni toping.",
+        "javob": "krizis holatiga keltirishi mumkin bo‘lgan muammolarning oldini olish maqsadida tashkilot faoliyatini tartibga soladigan boshqaruv xarakteristikasi;"
+    },
+    {
+        "savol": "Amal qilish davriga qarab qarorlar",
+        "javob": "strategik va taktik qarorlarga bo‘linadi."
+    },
+    {
+        "savol": "Qo‘yida qayd qilingan bosqichlarning qaysi biri qarorni ishlab chiqish jarayoni tarkibiga kiradi?",
+        "javob": "noto‘g‘ri javob yo‘q."
+    },
+    {
+        "savol": "Takrorlanish va yangilik darajasiga qarab qarorlar:",
+        "javob": "an’anaviy va tavsiyali qarorlarga bo‘linadi;"
+    },
+    {
+        "savol": "Streotip karorlar – bu...",
+        "javob": "odatiy vaziyatlarda qabul qilinadigan qarorlar;"
+    },
+    {
+        "savol": "Koll-markazlari qanday muhim vazifalarni bajaradi?",
+        "javob": "aksiyalarda ishtirok etish, telefon orqali sotishda ishtirok etish, ma’lumotnoma ma’lumotlarini markazlashtirilgan holda taqdim etish, ishonch telefonini tashkil etish imkoniyati"
+    },
+    {
+        "savol": "«Boshqaruv jarayonidagi nizo bu…………………». Nuqtalar o‘rniga to‘g‘ri javobni toping",
+        "javob": "rahbar, ishchi va boshqa xodimlar o‘rtasida muayyan masalalarni hal qilishda tomonlarning bir-biri bilan bir yechimga kela olmaganligi tufayli vujudga keladigan vaziyatdir;"
+    },
+    {
+        "savol": "Jamoa a’zolari o‘rtasida nizolarning ko‘pchiligi qaysi sabablar tufayli sodir bo‘ladi?",
+        "javob": "resurslarni taqsimlashdagi adolatsizlik, manmanlik, qaysarlik, maqsadlardagi har xillik;"
+    },
+    {
+        "savol": "Nizo turlari to‘g‘ri ko‘rsatilgan qatorni toping",
+        "javob": "ichki shaxsiy nizo, shaxslararo nizo, shaxs va guruh o‘rtasidagi nizo, guruhlararo nizo;"
+    },
+    {
+        "savol": "Ichki shaxsiy nizoga to‘g‘ri ta’rif berilgan javobni toping",
+        "javob": "bir kishining o‘ziga bir-biriga zid topshiriqlar berilib, rahbarning pirovard talabi bir-biriga mos kelmay, bajaruvchi bunday holda nima qilishini bilmay xunob bo‘lgan hollarda vujudga keladi."
+    },
+    {
+        "savol": "Shaxslar o‘rtasidagi nizoga to‘g‘ri ta’rif berilgan javobni toping",
+        "javob": "ko‘p hollarda ularning u yoki bu masalaga bo‘lgan nuqtayi nazarining mos tushmasligi, rahbarlar o‘rtasidagi resurslarni taqsimlash, xodimlar bilan rahbar o‘rtasida ish sharoitini qoniqarsizligi kabilar yuzasidan vujudga keladi;"
+    },
+    {
+        "savol": "Ochiq nizolarga to‘g‘ri ta’rif berilgan javobni toping?",
+        "javob": "odatda qarama-qarshi tomonlarning ko‘z oldida, to‘g‘ridan- to‘g‘ri vujudga keladi."
+    },
+    {
+        "savol": "Yopiq nizolarga to‘g‘ri ta’rif berilgan javobni toping?",
+        "javob": "yopik nizolar o‘ta xavflidir. Bunday nizolarni asta-sekin, belgilangan fursatda portlaydigan minaga o‘xshatsa bo‘ladi."
+    },
+    {
+        "savol": "Konstruktiv nizoga to‘g‘ri ta’rif berilgan javobni toping",
+        "javob": "korxona maqsadiga muvofiq o‘zgarishlar qilinishi, oqibatda esa nizo chiqadigan obyektni bartaraf etishni nazarda tutadi;"
+    },
+    {
+        "savol": "Nizoli vaziyatni boshqarishda asosiy samarali usullar nechta?",
+        "javob": "2 ta;"
+    },
+    {
+        "savol": "Nizoli vaziyatni boshqarishda asosiy samarali usullar to‘g‘ri keltirilgan javobni toping.",
+        "javob": "tarkibiy-tashkiliy va strategik usullar;"
+    },
+    {
+        "savol": "«Stress» so‘zi qaysi tildan olingan?",
+        "javob": "ingliz tilidan;"
+    },
+    {
+        "savol": "Jiddiy risk darajasi tengsizligini ko‘rsating",
+        "javob": "Zarar miqdori  > jami harajat +foyda"
+    },
+    {
+        "savol": "Risklarni boshqarishdan maqsad",
+        "javob": "Risklarni boshqarishdan maqsad- korxonani faqat bankrotlikdan saqlab qolish emas, balki, qanday sharoitda bo‘lsa ham foydani minimal darajadan past bo‘lishiga yo‘l qo‘ymaslik."
+    },
+    {
+        "savol": "Faktoring nima?",
+        "javob": "Debitor qarz majburiyaini faktor vositachiga o‘tkazayotgan korxonaning qarz undirish tavakkalchiligini kamaytirish maqasadida tuziladigan shartnoma."
+    },
+    {
+        "savol": "Sug‘urtalovchi – bu...",
+        "javob": "tijorat tashkiloti hisoblanadigan, tegishli turdagi sug‘urtalashni amalga oshirish uchun lisenziyaga yega bo‘lgan va sug‘urta shartnomasiga muvofiq sug‘urta to‘lovi (sug‘urta puli) to‘lash majburiyatini o‘z zimmasiga oladigan yuridik shaxs;"
+    },
+    {
+        "savol": "Hayot sug‘urtasi....",
+        "javob": "jismoniy shaxslarning hayoti, sog‘lig‘i, mehnat qobiliyati va pul ta’minoti bilan bog‘liq manfaatlarini sug‘urta qilish;"
+    },
+    {
+        "savol": "Marketing fani ilk bor amaliy-ilmiy fan sifatida qachon va qayerda o‘qitila boshlandi?",
+        "javob": "XXasrning boshlarida,  AQSHda;"
+    },
+    {
+        "savol": "Marketingning qaysi konsepsiyasida “sotish hajmini oshirish hisobiga foyda olish” asosiy maqsad hisoblanadi?",
+        "javob": "tijorat harakatlarini jadallashtirish konsepsiyasi;"
+    },
+    {
+        "savol": "Marketingning asosiy subyektlari keltirilgan javobni toping",
+        "javob": "mahsulot ishlab chiqaruvchilar, iste’molchilar,  ulgurji va chakana sotuvchilar, marketing bo‘yicha mutaxassislar;"
+    },
+    {
+        "savol": "Marketingning obyektlariga nimalar kiradi?",
+        "javob": "zaruriyat, ehtiyoj, talab, tovar va xizmatlar;"
+    },
+    {
+        "savol": "Marketingning asosiy maqsadi nimadan iborat?",
+        "javob": "barcha javoblar to‘g‘ri;"
+    },
+    {
+        "savol": "Marketing kompleksi nechta tarkibiy unsurdan iborat?",
+        "javob": "4 ta"
+    },
+    {
+        "savol": "Marketing kompleksi  tarkibiy unsurlari keltirilgan qatorni  ko‘rsating.",
+        "javob": "tovar (prodakt), narx (prayc), ilgarilatish (promoushn), joy (playc)."
+    },
+    {
+        "savol": "Reklama – bu",
+        "javob": "firma va u taklif qilayotgan tovar imidjini va shuhratini yaratish uchun ommaviy axborot vositalaridagi pulli joy hamda vaqtdan foydalanishdir."
+    },
+    {
+        "savol": "Ye-mayl  marketing–bu.......",
+        "javob": "elektron  pochta  orqali mahsulot va xizmatlarni siljitishga qaratilgan faoliyat"
+    },
+    {
+        "savol": "Menejment samaradorligini aniqlashda ko‘pincha nimalarga e’tibor qaratiladi?",
+        "javob": "boshqaruv mehnati samaradorligi va boshqaruv funksiyasiga;"
+    },
+    {
+        "savol": "Boshqaruvning ijtimoiy samaradorligini tavsiflovchi sifat ko‘rsatkichlarini toping?",
+        "javob": "boshqarishning ilmiy-texnik darajasini ifodalovchi ko‘rsatkichlar, boshqaruv devoni xodimlarining malakasi darajasini tavsiflovchi ko‘rsatkichlar, qabul qilingan qarorlar samaradorligini tavsiflovchi ko‘rsatkichlar;"
+    },
+    {
+        "savol": "Bugungi amaliyotda xodim va uni boshqarish muammosiga necha xil yondashuvlar mavjud?",
+        "javob": "ikki xil, inson resurslarni boshqarish, xodimlarni boshqarish;"
+    },
+    {
+        "savol": "Iqtisodiy samaradorlik nimalarda namoyon bo‘ladi?",
+        "javob": "yalpi ichki mahsulot va milliy daromadda;"
+    },
+    {
+        "savol": "Boshqaruv samaradorligi deganda:",
+        "javob": "erishilgan samaraning sarflangan xarajatga bo‘lgan nisbati tushuniladi;"
+    }
+]
